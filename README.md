@@ -2,7 +2,7 @@
 
 An interactive web app that recognizes handwritten digits (0 to 9) in real time. Draw a digit on the canvas, and a Convolutional Neural Network (CNN) trained on the MNIST dataset predicts it, shows its confidence, and even reveals what the network "sees" inside.
 
-**🔗 Live demo:** [YOUR-APP-LINK](https://digit-vision-ai.streamlit.app/)
+**🔗 Live demo:** [Click-To-Open-APP](https://digit-vision-ai.streamlit.app/)
 
 <!-- Add a screenshot or GIF of the app here -->
 <img width="1901" height="793" alt="image" src="https://github.com/user-attachments/assets/42dd8d64-f1f9-4731-b5b3-4b775a14ae59" />
@@ -88,7 +88,7 @@ digitvision-ai/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/digitvision-ai.git
+git clone https://github.com/MOHAMMED-ZAKIR-AHMED/digitvision-ai.git
 cd digitvision-ai
 
 # 2. Create and activate a virtual environment (Python 3.11 or 3.12)
